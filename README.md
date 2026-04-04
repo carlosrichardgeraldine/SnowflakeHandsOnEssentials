@@ -29,6 +29,3 @@ This repository intentionally includes **only** materials related to:
 - **Badge 4:** Data Lake  
 - **Badge 5:** Data Engineering  
 - **Badge 6:** Data Science  
-
-Any other workshops or tracks are **out of scope** for this repo.
-```
